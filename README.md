@@ -1,6 +1,6 @@
 # About
 
-This is node.js implementation of json-server, can be used to host in live servers. Note - This is created for educational pupose only
+This is node.js implementation of json-server, can be used to host in live servers. Note - This is created for educational pupose only, hence can't be used for business related purpose.
 
 ## You have some query?
 
